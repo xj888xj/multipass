@@ -3,5 +3,15 @@
   "extends": [
     "config:recommended"
   ],
+  "reviewers": [
+    "andrei-toterman",
+    "georgeliao",
+    "levkropp",
+    "ricab",
+    "sharder996",
+    "Sploder12",
+    "xmkg",
+  ],
+  "reviewersSampleSize": 1,
   "schedule": "every 2 weeks on Monday",
 }
